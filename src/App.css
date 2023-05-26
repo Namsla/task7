@@ -15,8 +15,9 @@ h3 {
   gap: 20px;
 }
 input {
-  height: 30px;
-  border: solid gray;
+  height: 25px;
+  border: black;
+  color: aliceblue;
 }
 .main {
   height: 80vh;

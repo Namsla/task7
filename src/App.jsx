@@ -39,7 +39,7 @@ function App() {
         <h3>History</h3>
         <h3>Board Members</h3>
         <h3>Contact Us</h3>
-        <input type="text" placeholder="Search profile" />
+        <input type="text" placeholder="Search" />
       </div>
       <br />
       <h1>Meet the honor students from the class of 2023</h1> <br />
