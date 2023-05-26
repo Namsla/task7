@@ -25,16 +25,14 @@ input {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
-  padding-left: 50px;
-  padding-right: 50px;
   gap: 5px;
 }
 .profile_box {
-  padding: 15px;
+  padding: 10px;
   border: solid;
   border-radius: 2%;
   border-color: black;
-  height: 400px;
+  height: 350px;
   width: 350px;
   display: flex;
   flex-direction: column;
@@ -69,4 +67,8 @@ h1 {
   text-transform: capitalize;
   font-family: Verdana, sans-serif;
   padding: 10px;
+}
+
+.box_container {
+  background-color: aliceblue;
 }
